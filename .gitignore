@@ -1,3 +1,6 @@
+# include toolchain
+!tools/*
+
 # CMake build paths
 build/
 CMakeFiles/
